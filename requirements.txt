@@ -1,16 +1,13 @@
 aniso8601==9.0.1
-apturl==0.5.2
 astroid==2.3.3
 asttokens==2.0.3
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 blinker==1.4
-Brlapi==0.7.0
 certifi==2019.11.28
 chardet==3.0.4
 click==8.0.3
 colorama==0.4.3
-command-not-found==0.3
 cryptography==2.8
 cupshelpers==1.0
 database-sanitizer==1.1.0
